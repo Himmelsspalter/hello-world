@@ -1,2 +1,5 @@
 #include<stdio.h>
-printf("Hello");
+void mian(void)
+{
+ printf("hello"); 
+}
